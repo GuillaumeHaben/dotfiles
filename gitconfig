@@ -1,7 +1,7 @@
 # TO BE CHANGED if you cloned my dotfiles
 [user]
-        email = damien.cupif@gmail.com
-        name = Damien Cupif
+        email = pyxouze@gmail.com
+        name = Guillaume Haben
 
 [core]
         editor = vim
