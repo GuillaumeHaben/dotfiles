@@ -22,3 +22,6 @@ antigen theme af-magic
 # Tell antigen that we are done
 antigen apply
 
+alias p3=python3
+alias p2=python
+alias code=code -r
